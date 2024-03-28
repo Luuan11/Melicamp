@@ -7,4 +7,6 @@ func main() {
 	num2 := 15
 	fmt.Println("Hello World, luizlcezario")
 	fmt.Println(num1 + num2 + 5)
+	fmt.Println("Hello World, luizlcezario e luafernando")
+	fmt.Println(num1 + num2)
 }
